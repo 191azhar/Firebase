@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "644510264007",
+    "project_id": "a3007exp6",
+    "storage_bucket": "a3007exp6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644510264007:android:a2aa0a3bb060e4a14dace2",
+        "android_client_info": {
+          "package_name": "com.sies.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644510264007-vvqt1p0himtd1m3vfcfpaeeis9kt3rt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD71V4XinfyThKbFGrGurCFRNpwu32rgwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644510264007-vvqt1p0himtd1m3vfcfpaeeis9kt3rt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644510264007-k3n2j7m0o4tthfagus3m5cgmeu0c0961.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sies.edu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
